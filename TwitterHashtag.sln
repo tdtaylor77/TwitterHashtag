@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterHashtag", "TwitterHashtag\TwitterHashtag.csproj", "{85A1D18B-1C92-478D-AC26-2FBDAC8C0981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterHashtagTest", "TwitterHashtagTest\TwitterHashtagTest.csproj", "{9EE013A2-D286-4A02-8915-5BBE24B15E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A1D18B-1C92-478D-AC26-2FBDAC8C0981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A1D18B-1C92-478D-AC26-2FBDAC8C0981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A1D18B-1C92-478D-AC26-2FBDAC8C0981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A1D18B-1C92-478D-AC26-2FBDAC8C0981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE013A2-D286-4A02-8915-5BBE24B15E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE013A2-D286-4A02-8915-5BBE24B15E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE013A2-D286-4A02-8915-5BBE24B15E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE013A2-D286-4A02-8915-5BBE24B15E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D2609B-432A-49DF-9B0A-BF5EDD962016}
+	EndGlobalSection
+EndGlobal
